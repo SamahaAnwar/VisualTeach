@@ -9,7 +9,7 @@ https://github.com/SamahaAnwar/VisualTeach/assets/125579387/c432a849-f826-4235-9
 Sketchy: https://drive.google.com/file/d/1vGtssYgM6_r0ph8f_ZPWzIHvHL0yS8CN/view
 
 ## Trained Models
-https://drive.google.com/file/d/1vGtssYgM6_r0ph8f_ZPWzIHvHL0yS8CN/view
+https://drive.google.com/drive/folders/1X69vhCt-lpyfRs3RY1VZTziHssz8uBrv?usp=drive_link
 ## SAM (Segment Anything Model) 
 
 
