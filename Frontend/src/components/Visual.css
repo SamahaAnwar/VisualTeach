@@ -1,0 +1,127 @@
+/* Updated CSS for horizontal menu bar with spaced buttons */
+.comment-body {
+  background-color: #304F84;
+}
+.comment-heading {
+  background-color: #345BA0;
+}
+
+.canvas-container {
+  display: flex;
+}
+.menu-bar {
+  display: flex;
+  flex-direction: column; /* Change to column layout */
+  justify-content: flex-start; /* Align buttons to the top */
+  align-items: center;
+  padding: 10px;
+  background-color: #363434; /* Light background color */
+  width: 50px; /* Limit the width of the menu bar */
+}
+.board {
+  border: 2px solid #070707;
+  border-radius: 5px;
+  margin-left: 10px;
+  display: block;
+}
+p {
+  margin-bottom: 0;
+}
+.comment-section {
+  max-height: 100vh;
+}
+.message-sender {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.message-time {
+  padding-left: 4px;
+  color: #ccc;
+  font-size: 10px;
+  margin-bottom: 2px;
+}
+.message-text {
+  padding-left: 4px;
+  font-size: 12px;
+  color: light;
+  margin-bottom: 0.8rem
+}
+
+
+.color-button,
+.brush-button {
+  width: 40px;
+  height: 40px;
+  border: none;
+  margin-right: 5px; /* Add horizontal margin for spacing */
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 50%;
+}
+
+/* Color buttons */
+.color-button.black {
+  background-color: black;
+}
+
+.color-button.black:hover {
+  background-color: #666;
+}
+
+.color-button.red {
+  background-color: red;
+}
+
+.color-button.red:hover {
+  background-color: #ff6666;
+}
+
+.color-button.blue {
+  background-color: blue;
+}
+
+.color-button.blue:hover {
+  background-color: #6666ff;
+}
+
+/* Brush buttons */
+.brush-button {
+  background-color: #ccc; /* Default color for brush buttons */
+}
+
+.brush-button:hover {
+  background-color: #eee;
+}
+
+.brush-button.clear {
+  background-color: #f3fafa;
+}
+
+.brush-button.clear:hover {
+  background-color: #f1f1f1;
+}
+
+.brush-button.undo {
+  background-color: #9db9da;
+}
+
+.brush-button.undo:hover {
+  background-color: #bec1fc;
+}
+
+.brush-button.redo {
+  background-color: #b4caf6;
+}
+
+.brush-button.redo:hover {
+  background-color: #6666ff;
+}
+
+.brush-button.save {
+  background-color: #13f21e;
+}
+
+.brush-button.save:hover {
+  background-color: #0ceb2d;
+}
