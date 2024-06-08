@@ -8,4 +8,8 @@ https://github.com/SamahaAnwar/VisualTeach/assets/125579387/c432a849-f826-4235-9
 ## Dataset
 Sketchy: https://drive.google.com/file/d/1vGtssYgM6_r0ph8f_ZPWzIHvHL0yS8CN/view
 
+## Trained Models
+https://drive.google.com/file/d/1vGtssYgM6_r0ph8f_ZPWzIHvHL0yS8CN/view
+## SAM (Segment Anything Model) 
+
 
