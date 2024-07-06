@@ -87,7 +87,7 @@ def predict():
 
     user_image_path = 'Z:\work\Sketch_LVM-20240326T182047Z-001\Sketch_LVM\Received_sketch\Received_image.png'
     
-    #process_image_from_file(user_image_path)
+    process_image_from_file(user_image_path)
     
     return json.dumps({"message":'Image received'}), 200
 
