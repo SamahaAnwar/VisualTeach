@@ -4,7 +4,7 @@ VisualTeach is a virtual teaching platform which aims to use technology to make 
 
 https://github.com/SamahaAnwar/VisualTeach/assets/125579387/c432a849-f826-4235-9e09-7d95e5a8b10a
 
-
+The Sketch based Image Retrieval model implemented is inspired from "CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not" https://aneeshan95.github.io/Sketch_LVM/
 ## Dataset
 Sketchy: https://drive.google.com/file/d/1vGtssYgM6_r0ph8f_ZPWzIHvHL0yS8CN/view
 
